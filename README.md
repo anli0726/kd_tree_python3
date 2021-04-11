@@ -1,6 +1,6 @@
 # About
 
-Python3 implementation of the K-dimentional Tree. Using dictionary as the basic node structure.
+Python3 implementation of the K-dimensional Tree. Using dictionary as the basic node structure.
 
 # Featrues
 ## Data member:
